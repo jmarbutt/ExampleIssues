@@ -132,3 +132,4 @@
 /Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/obj/Debug/net8.0/ExampleIssues.pdb
 /Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/obj/Debug/net8.0/ExampleIssues.genruntimeconfig.cache
 /Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/obj/Debug/net8.0/ref/ExampleIssues.dll
+/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/obj/Debug/net8.0/ExampleIssues.sourcelink.json

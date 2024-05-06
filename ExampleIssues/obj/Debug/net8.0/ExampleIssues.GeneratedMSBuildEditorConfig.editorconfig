@@ -26,10 +26,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0NvbmZpcm1FbWFpbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/Components/Account/Pages/ConfirmEmailChange.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0NvbmZpcm1FbWFpbENoYW5nZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/Components/Account/Pages/ExternalLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0V4dGVybmFsTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,6 +64,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/Components/Account/Pages/Manage/ChangePassword.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL01hbmFnZS9DaGFuZ2VQYXNzd29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/Components/Account/Pages/Manage/ConfirmEmailChange.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL01hbmFnZS9Db25maXJtRW1haWxDaGFuZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/Components/Account/Pages/Manage/DeletePersonalData.razor]

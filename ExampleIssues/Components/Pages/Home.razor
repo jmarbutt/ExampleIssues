@@ -1,7 +1,30 @@
 ﻿@page "/"
+@using ExampleIssues.Components.Account
+@using ExampleIssues.Data
+@inject IdentityUserAccessor UserAccessor
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+@if (user != null)
+{
+    <div>User here: @user.UserName</div>
+}
+else
+{
+    <div>User Not found</div>
+}
+
+@code {
+    
+    private ApplicationUser user = default!;
+    
+    [CascadingParameter] private HttpContext HttpContext { get; set; } = default!;
+    protected override async Task OnInitializedAsync()
+    {
+        user = await UserAccessor.GetRequiredUserAsync(HttpContext);
+    }
+}
