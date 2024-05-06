@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/obj/Debug/net8.0/scopedcss/projectbundle/ExampleIssues.bundle.scp.css",
+      "PackagePath": "staticwebassets/ExampleIssues.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/jonathan/RiderProjects/ExampleIssues/ExampleIssues/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ExampleIssues.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ExampleIssues.props",
+      "PackagePath": "build\\ExampleIssues.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExampleIssues.props",
+      "PackagePath": "buildMultiTargeting\\ExampleIssues.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExampleIssues.props",
+      "PackagePath": "buildTransitive\\ExampleIssues.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
